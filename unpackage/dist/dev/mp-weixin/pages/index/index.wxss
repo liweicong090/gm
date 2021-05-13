@@ -1,0 +1,246 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.content.data-v-57280228 {
+  position: relative;
+  margin-top: -40rpx;
+  z-index: 99;
+}
+.content .takein.data-v-57280228 {
+  width: 100%;
+  height: 350rpx;
+  background-color: #fff;
+  box-shadow: 0 0 30rpx rgba(0, 0, 0, 0.1);
+  border-radius: 10rpx;
+  padding: 10rpx;
+}
+.content .takein .takein-detail.data-v-57280228 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 10rpx;
+  border: 4rpx solid #dfbf72;
+  border-top-right-radius: 170rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.content .takein .takein-detail .takein-icon.data-v-57280228 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap-reverse;
+          flex-wrap: wrap-reverse;
+}
+.content .takein .takein-detail .takein-icon .total.data-v-57280228 {
+  -webkit-box-flex: 0;
+  -webkit-flex: none;
+          flex: none;
+  width: 25rpx;
+  height: 25rpx;
+  border: 4rpx solid #dfbf72;
+}
+.content .takein .takein-detail .takein-icon .three.data-v-57280228 {
+  border-top-left-radius: 10rpx;
+  border-top-right-radius: 10rpx;
+  border-bottom: 0;
+  margin-bottom: -6rpx;
+}
+.content .takein .takein-detail .takein-icon .one.data-v-57280228 {
+  border-top: 0;
+  border-right: 0;
+}
+.content .takein .takein-detail .takein-icon .two.data-v-57280228 {
+  border-top-right-radius: 10rpx;
+  border-bottom-right-radius: 10rpx;
+  margin-left: -4rpx;
+  border-left: 0;
+}
+.content .takein .takein-detail .t-d-detail.data-v-57280228 {
+  margin-left: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.content .takein .takein-detail .t-d-detail .t-d-detail-top.data-v-57280228 {
+  font-size: 50rpx;
+  font-weight: 800;
+}
+.content .takein .takein-detail .t-d-detail .t-d-detail-bottom.data-v-57280228 {
+  font-size: 24rpx;
+  color: #8b898c;
+}
+.content .presentation.data-v-57280228 {
+  width: 100%;
+  height: 130rpx;
+  margin: 30rpx 0;
+  background-color: #fff;
+  box-shadow: 0 0 30rpx rgba(0, 0, 0, 0.1);
+  border-radius: 10rpx;
+  padding: 10rpx;
+  background-image: -webkit-linear-gradient(left, #fff6e7, #fff);
+  background-image: linear-gradient(to right, #fff6e7, #fff);
+}
+.content .presentation .pr-inside.data-v-57280228 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 10rpx;
+  border: 4rpx solid #dfbf72;
+  padding: 0 15rpx 0 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.content .presentation .pr-inside .pr-inside-left.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.content .presentation .pr-inside .pr-inside-left text.data-v-57280228 {
+  margin-left: 10rpx;
+  font-size: 30rpx;
+  font-weight: 700;
+}
+.content .presentation .pr-inside .pr-inside-right.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.content .presentation .pr-inside .pr-inside-right text.data-v-57280228 {
+  margin-right: 5rpx;
+}
+.content .video.data-v-57280228 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 30rpx;
+}
+.content .video .v-left.data-v-57280228 {
+  width: 48%;
+  border-radius: 10rpx;
+}
+.content .video .v-right.data-v-57280228 {
+  width: 48%;
+  border-radius: 10rpx;
+}
+.content .slogan.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  margin-bottom: 30rpx;
+}
+.content .slogan .s-top.data-v-57280228 {
+  font-size: 60rpx;
+  font-style: italic;
+  color: #e7e7e7;
+  font-weight: 800;
+}
+.content .slogan .s-bottom.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.content .slogan .s-bottom text.data-v-57280228 {
+  color: #e7e7e7;
+  letter-spacing: 4rpx;
+  font-size: 24rpx;
+  margin: 0 10rpx;
+}
+.content .slogan .s-bottom .sb-one.data-v-57280228 {
+  width: 14rpx;
+  height: 14rpx;
+  background-color: #e7e7e7;
+  border-radius: 50%;
+}
+.content .slogan .s-bottom .sb-two.data-v-57280228 {
+  width: 10rpx;
+  height: 10rpx;
+  background-color: #e7e7e7;
+  border-radius: 50%;
+  margin: 0 6rpx;
+}
+.content .slogan .s-bottom .sb-three.data-v-57280228 {
+  width: 6rpx;
+  height: 6rpx;
+  background-color: #e7e7e7;
+  border-radius: 50%;
+}
+

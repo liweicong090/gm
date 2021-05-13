@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "集十赠一",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-image": "/node-modules/uview-ui/components/u-image/u-image"
+  }
+}

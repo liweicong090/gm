@@ -1,0 +1,62 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/order/order",
+    "pages/meal/meal",
+    "pages/mine/mine",
+    "pages/edit_user/edit_user",
+    "pages/location/location",
+    "pages/bill/bill",
+    "pages/deal_detail/deal_detail",
+    "pages/tenOne/tenOne",
+    "pages/copum/copum",
+    "pages/choose_copum/choose_copum",
+    "pages/vip/vip",
+    "pages/remark/remark"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#a2a2a2",
+    "selectedColor": "#63584d",
+    "borderStyle": "white",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/index.png",
+        "selectedIconPath": "static/tabbar/index-avtive.png"
+      },
+      {
+        "text": "点餐",
+        "pagePath": "pages/order/order",
+        "iconPath": "static/tabbar/order.png",
+        "selectedIconPath": "static/tabbar/order-avtive.png"
+      },
+      {
+        "text": "订单",
+        "pagePath": "pages/meal/meal",
+        "iconPath": "static/tabbar/meal.png",
+        "selectedIconPath": "static/tabbar/meal-active.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/tabbar/mine.png",
+        "selectedIconPath": "static/tabbar/mine-active.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取门店位置"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

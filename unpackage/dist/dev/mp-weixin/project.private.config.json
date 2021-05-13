@@ -1,0 +1,41 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/copum/copum",
+          "pathName": "pages/copum/copum",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/choose_copum/choose_copum",
+          "pathName": "pages/choose_copum/choose_copum",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/vip/vip",
+          "pathName": "pages/vip/vip",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/bill/bill",
+          "pathName": "pages/bill/bill",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

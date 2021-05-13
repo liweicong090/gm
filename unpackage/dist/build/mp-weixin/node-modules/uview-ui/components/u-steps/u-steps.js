@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["node-modules/uview-ui/components/u-steps/u-steps"],{"1c87":function(t,n,e){"use strict";e.d(n,"b",(function(){return r})),e.d(n,"c",(function(){return i})),e.d(n,"a",(function(){return u}));var u={uIcon:function(){return e.e("node-modules/uview-ui/components/u-icon/u-icon").then(e.bind(null,"31db"))},uLine:function(){return e.e("node-modules/uview-ui/components/u-line/u-line").then(e.bind(null,"f483"))}},r=function(){var t=this,n=t.$createElement;t._self._c},i=[]},"84fd":function(t,n,e){"use strict";var u=e("f296"),r=e.n(u);r.a},8781:function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var u={name:"u-steps",props:{mode:{type:String,default:"dot"},list:{type:Array,default:function(){return[]}},type:{type:String,default:"primary"},current:{type:[Number,String],default:0},activeColor:{type:String,default:"#2979ff"},unActiveColor:{type:String,default:"#909399"},icon:{type:String,default:"checkmark"},direction:{type:String,default:"row"}},data:function(){return{}}};n.default=u},aa88:function(t,n,e){"use strict";e.r(n);var u=e("1c87"),r=e("f8f9");for(var i in r)"default"!==i&&function(t){e.d(n,t,(function(){return r[t]}))}(i);e("84fd");var o,f=e("f0c5"),c=Object(f["a"])(r["default"],u["b"],u["c"],!1,null,"25b40537",null,!1,u["a"],o);n["default"]=c.exports},f296:function(t,n,e){},f8f9:function(t,n,e){"use strict";e.r(n);var u=e("8781"),r=e.n(u);for(var i in u)"default"!==i&&function(t){e.d(n,t,(function(){return u[t]}))}(i);n["default"]=r.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'node-modules/uview-ui/components/u-steps/u-steps-create-component',
+    {
+        'node-modules/uview-ui/components/u-steps/u-steps-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("aa88"))
+        })
+    },
+    [['node-modules/uview-ui/components/u-steps/u-steps-create-component']]
+]);

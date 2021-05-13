@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "结算",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-image": "/node-modules/uview-ui/components/u-image/u-image"
+  }
+}
