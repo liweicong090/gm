@@ -4,7 +4,7 @@
 后端 unicloud云开发
 
 # 首页 #
-![](https://7463-tcb-nzncjp1knbhfavcef4299-5d5ee2-1303924487.tcb.qcloud.la/gm/微信图片_202105131702458.jpg) =100x200
+<img src="https://7463-tcb-nzncjp1knbhfavcef4299-5d5ee2-1303924487.tcb.qcloud.la/gm/微信图片_202105131702457.jpg" alt="" width="100" height="30" align="bottom" />
 
 # 选择门店页面 #
 ![](https://7463-tcb-nzncjp1knbhfavcef4299-5d5ee2-1303924487.tcb.qcloud.la/gm/微信图片_202105131702457.jpg)
